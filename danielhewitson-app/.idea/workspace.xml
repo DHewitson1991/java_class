@@ -32,8 +32,8 @@
       <file leaf-file-name="TShirtTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/danielhewitson/advancedjava/TShirtTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-578">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="-34">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -236,7 +236,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527365000813</updated>
-      <workItem from="1527365004034" duration="661000" />
+      <workItem from="1527365004034" duration="1254000" />
     </task>
     <servers />
   </component>
@@ -244,13 +244,15 @@
     <history-entry file="TShirtTest - 2018.05.26 at 16h 14m 18s.xml">
       <configuration name="TShirtTest" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="TShirtTest - 2018.05.26 at 16h 16m 25s.xml">
+      <configuration name="TShirtTest" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="661000" />
+    <option name="totallyTimeSpent" value="1254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="872" y="0" width="1055" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -261,12 +263,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24927816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24927816" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -306,8 +308,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/danielhewitson/advancedjava/TShirtTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="-34">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
