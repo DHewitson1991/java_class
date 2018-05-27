@@ -38,6 +38,9 @@ jobs:
           key: v1-dependencies-{{ checksum "pom.xml" }}
         
       # run tests!
+      test:
+  override:
+    - mvn clean package
       - run: mvn integration-test
 
 
